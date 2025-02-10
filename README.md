@@ -1,6 +1,6 @@
 # Australian Airports Dashboard - Power BI
 
-![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Dashboard-yellow) 
+![Power BI Dashboard](image.png) 
 
 
 This repository contains a **Power BI dashboard** that comprehensively overviews all Australian airports. The dashboard visualizes key metrics, trends, and insights related to airport operations, passenger traffic, and other relevant data.
